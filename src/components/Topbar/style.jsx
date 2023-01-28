@@ -19,6 +19,7 @@ export const Top = styled("div")`
   display: flex;
   align-items: center;
   font-family: "Josefin Sans", sans-serif;
+  z-index: 999;
 `;
 export const TopLeft = styled("div")`
   label: TopLeft;
