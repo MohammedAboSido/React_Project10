@@ -1,11 +1,10 @@
 import React from "react";
-
-import "./main.css";
-
+import MainStyle from "./MainStyle.jsx";
 function App() {
   return (
     <>
-      <div>ِِApp</div>
+      <MainStyle />
+      Mohammed
     </>
   );
 }
