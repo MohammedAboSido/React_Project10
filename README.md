@@ -1,6 +1,6 @@
 # Demo
 
-Open [https://social-bvn.pages.dev/](https://social-bvn.pages.dev/) to view project.
+Open [https://blogapp-cas.pages.dev/](https://blogapp-cas.pages.dev/) to view project.
 
 # Getting Started with Create React App
 
