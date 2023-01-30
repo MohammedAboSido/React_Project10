@@ -14,6 +14,10 @@ export default function MainStyle() {
             font-family: "Lora", serif;
             font-family: "Varela Round", sans-serif; */
           }
+          .link {
+            text-decoration: none;
+            color: inherit;
+          }
         `}
       />
     </>

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import {
   Label,
   LoginButton,
@@ -23,7 +24,11 @@ export default function Register() {
           <RegisterInput type="password" placeholder="Enter your password..." />
           <RegisterButton>Register</RegisterButton>
         </RegisterForm>
-        <LoginButton>Login</LoginButton>
+        <LoginButton>
+          <Link className="link" to="/login">
+            LOGIN
+          </Link>
+        </LoginButton>
       </RegisterWrapper>
     </>
   );
