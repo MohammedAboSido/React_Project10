@@ -1,5 +1,5 @@
 import React from "react";
-import SinglePage from "../pages/SinglePage";
+import WritePage from "../pages/WritePage/WritePage";
 import Topbar from "./Topbar/Topbar";
 
 export default function Home() {
@@ -7,7 +7,8 @@ export default function Home() {
     <>
       <Topbar />
       {/* <HomePage /> */}
-      <SinglePage />
+      {/* <SinglePage /> */}
+      <WritePage />
     </>
   );
 }
